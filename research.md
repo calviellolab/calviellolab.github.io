@@ -18,8 +18,7 @@ and allowing for signal processing investigation of ribosome dynamics.
 <p align="center">
 <img src="/img/ribot.png"  />
 </p>
-Moreover, analysis of protein-RNA complexes revealed an unexpected diversity to the ribosomal RNP itself, with hundreds of factors interacting with the ribosome throughout the translation cycle.
-Despite an increasing amount of protein-RNA footprinting datasets, our ability to characterize binding and functions of heterogeneous ribosomal complexes along the transcriptome remains limited.
+Moreover, analysis of protein-RNA complexes revealed an unexpected diversity to the ribosomal RNP itself, with hundreds of factors interacting with the ribosome throughout the translation cycle. However, our ability to characterize binding and functions of heterogeneous ribosomal complexes along the transcriptome remains limited.
 {: .text-justify}
 <p align="center">
 <img src="/img/rnp_dyn_ok.png"  />
@@ -43,7 +42,7 @@ Projects in this area will make extensive use of thousands of available Ribo-seq
 
 ### Alternative RNA processing and its contribution to protein synthesis and cell physiology
 
-RNA-sequencing (RNA-seq) data has enabled researchers to quantify expression of thousands of genes, including canonical example of protein coding genes to more cryptic transcripts of unknown function; moreover, different transcript isoforms from the same genes have often been shown to exhibit tissue-specific functions, highlighting the need of transcript-level investigation into gene regulation. For hundreds of genes, computational analysis of Ribo-seq data has provided evidence for translation and also co-translational mRNA decay in a transcript-specific fashion, providing a powerful window into the cytoplasmic fate of thousands of transcripts. However, the extent of transcript-specific translational control, and the physiological relevance for the presence of multiple translated isoforms remains elusive.
+RNA-sequencing (RNA-seq) data has enabled researchers to quantify expression of thousands of genes, from more canonical example of protein coding genes to cryptic transcripts of unknown function; moreover, different transcript isoforms from the same genes have often been shown to exhibit tissue-specific functions, highlighting the need for transcript-level investigation into gene regulation. For hundreds of genes, computational analysis of Ribo-seq data has provided evidence for translation and also co-translational mRNA decay in a transcript-specific fashion, providing a powerful window into the cytoplasmic fates of thousands of transcripts. However, the extent of transcript-specific translational control, and the physiological relevance for the presence of multiple translated isoforms remains elusive.
 {: .text-justify}
 <p align="center">
 <img src="/img/altspl.png"  />
@@ -62,7 +61,7 @@ regulation shapes neuronal functions and underlies several neuronal pathologies.
 
 ### Proteogenomics applications between RNA and protein
 
-RNA sequencing technologies are an essential way to detect expressed transcripts, thus providing useful priors to identify synthesized proteins. As shown by different studies, careful analysis of Ribo-seq profiles can reveal protein synthesis events with high confidence and aid the discovery of new proteins being translated from uORFs, lincRNAs and alternative transcript isoforms. While earlier studies took advantage of proteomics data to qualitatively validate protein synthesis at uncharacterized loci, re-analysis and quantification of mass-spectrometry datasets revealed strong quantitative agreements between translation output and steady-state protein abundance. Despite these recent promising results, integrating transcriptomics with the complex world of proteome dynamics, considering regulation via post-translational modification, investigation of protein isoforms, and protein subcellular localization and function, remains an unmet challenge in the post-genomics era. 
+RNA sequencing technologies are essential to detect expressed transcripts, thus providing useful priors to identify synthesized proteins. As shown by different studies, careful analysis of Ribo-seq profiles can reveal protein synthesis events with high confidence and aid the discovery of new proteins being translated from uORFs, lncRNAs and alternative transcript isoforms. While earlier studies took advantage of proteomics data to qualitatively validate protein synthesis at uncharacterized loci, re-analysis of mass-spectrometry datasets revealed strong quantitative agreements between translation output and steady-state protein abundance. Despite these recent promising results, integrating transcriptomics with the complex world of proteome dynamics, while considering regulation via post-translational modifications, presence of protein isoforms, and protein subcellular localization and function, remains an unmet challenge in the post-genomic era. 
 In addition, a complex interplay between translation elongation dynamics and co-translational protein folding ensure correct protein stability and function, confirming the importance of jointly investigating RNP dynamics and protein activity.
 {: .text-justify}
 <p align="center">
