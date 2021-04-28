@@ -15,7 +15,7 @@ Here is a list of the main publications from me and the lab. For a more detailed
 <br>
 
 
-<strong>Calviello L</strong> & Venkataramanan S, Rogowski KJ, Wiler E, Wilkins K, Tejura M, Thai B, Krol J, Filipowicz W, Landthaler M, Floor SN. <a href="https://www.biorxiv.org/content/10.1101/589218v2" target="_blank">DDX3 depletion represses translation of mRNAs with complex 5′UTRs</a> <em>, bioRxiv - accepted at Nucleic Acid Research</em>, 2021
+<strong>Calviello L</strong> & Venkataramanan S, Rogowski KJ, Wiler E, Wilkins K, Tejura M, Thai B, Krol J, Filipowicz W, Landthaler M, Floor SN. <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab287/6255701" target="_blank">DDX3 depletion represses translation of mRNAs with complex 5′UTRs</a> <em>, Nucleic Acid Research</em>, 2021
 
 <strong>Calviello L</strong>, Hirsekorn A, Ohler U. <a href="https://www.nature.com/articles/s41594-020-0450-4" target="_blank">Quantifcation of translation uncovers the functions of the alternative transcriptome</a> <em>, Nature Structural & Molecular Biology</em>, 2020
 
