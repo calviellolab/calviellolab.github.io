@@ -7,6 +7,8 @@ title: Team
 ![LorenzoC](/img/lorenzoc.jpeg){: width="20%" align="right"}
 **Lorenzo Calviello**  
 *Group Leader*  
+MSc: University of Pisa with Roberto Marangoni
+<br>
 Ph.D: MDC/BIMSB (Humboldt University) with Uwe Ohler
 <br>
 Postdoc: University of California San Francisco with Stephen Floor &nbsp;
