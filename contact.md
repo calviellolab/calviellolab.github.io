@@ -7,7 +7,10 @@ For any question, please contact me (Lorenzo) at:
 
 calviello.l.bio`at`gmail dot com
 
-The lab is currently looking for a lab technician, PhD students (through the <a href="https://www.semm.it/education/phd-program-systems-medicine" target="_blank" rel="noopener">SEMM PhD program</a>) and postdocs, both in computational and experimental space.
+The lab is currently looking for a lab technician, PhD students (through the <a href="https://www.semm.it/education/phd-program-systems-medicine" target="_blank" rel="noopener">SEMM PhD program</a>) and postdocs, both in computational and experimental space. Official calls will be published in the next weeks.
+
+<br>
+
 As an overview, members of the lab (especially the PI!) are expected to:
 
 - Be honest, with yourself and your peers.
