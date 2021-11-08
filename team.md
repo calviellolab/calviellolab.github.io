@@ -17,8 +17,22 @@ Email: calviello.l.bio`at`gmail dot com
 <br>
 <strong><a href="https://scholar.google.com/citations?user=p2emlPUAAAAJ&hl=en" target="_blank" rel="noopener">Google scholar</a></strong> &nbsp;
 <a href="/img/CV_Lorenzo_Calviello.pdf" target="_blank">CV</a>&nbsp;
+<br>
+<br>
+*Lorenzo is the PI of the Calviello Lab. He supervises the projects and the lab members while differentiating into senior PI*
 
----
+![LorenzoC](/img/Roberto_alb.png){: width="20%" align="right"}
+**Roberto Albanese**  
+*PhD student*  
+MSc: University of Milan with Mattia Pelizzola
+<br>
+Bsc: University of Rome La Sapienza
+<br>
+Email: roberto.albanese`at`fht dot org
+<br>
+<br>
+*Roberto works on resolving transcript-specific functions by analyzing different transcriptomics datasets, because genes are fundamental, but transcripts do the work!*
+
 
 <br>
 
@@ -29,5 +43,3 @@ We are currently looking for the following positions:
 - PhD students
 <br>
 Please see our Contact page for more info
-
-
