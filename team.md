@@ -21,6 +21,24 @@ Email: calviello.l.bio`at`gmail dot com
 <br>
 *Lorenzo is the PI of the Calviello Lab. He supervises the projects and the lab members while differentiating into senior PI*
 
+
+![LorenzoC](/img/Marilena.png){: width="20%" align="right"}
+**Marilena Mancino**  
+*Senior technician*  
+MSc: University of Federico II, Naples
+<br>
+Ph.D: University of Alessandria - San Raffaele with Stefano Biffo
+<br>
+Postdoc: INGM - Milan 
+<br>
+Research Technician: SR-TIGET 
+<br>
+Email: marilena.mancino`at`fht dot org
+<br>
+<br>
+*Marilena is the central pillar of the experimental lab, and we are extremely grateful for having her and her expertise on all things translation with us*
+
+
 ![LorenzoC](/img/Roberto_alb.png){: width="20%" align="right"}
 **Roberto Albanese**  
 *PhD student*  
@@ -39,7 +57,6 @@ Email: roberto.albanese`at`fht dot org
 ## Join us!  
 We are currently looking for the following positions:
 - Postdoctoral Fellows  
-- Technicians
 - PhD students
 <br>
 Please see our Contact page for more info
