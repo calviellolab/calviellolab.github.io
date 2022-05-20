@@ -22,7 +22,7 @@ Email: calviello.l.bio`at`gmail dot com
 *Lorenzo is the PI of the Calviello Lab. He supervises the projects and the lab members while differentiating into senior PI*
 
 
-![LorenzoC](/img/marilena.png){: width="20%" align="right"}
+![LorenzoC](/img/marilena.jpeg){: width="20%" align="right"}
 **Marilena Mancino**  
 *Senior technician*  
 MSc: University of Federico II, Naples
