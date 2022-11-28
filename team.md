@@ -77,7 +77,7 @@ MSc: University of Eastern Piedmont - San Raffaele, with Stefano Biffo
 Email: stefano.grosso`at`fht dot org
 <br>
 <br>
-*Stefano works on profiling different ribosomal RNP and the mRNAs they translate, because localized mRNA processing matters!*
+*Stefano works on profiling different ribosomal RNPs and the mRNAs they engage with, because different ribosomes can translate different mRNAs!*
 
 <br>
 
